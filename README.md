@@ -1,5 +1,5 @@
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Jai karthhick%20R%20&fontColor=B0B0B0&fontSize=e)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Jai%20Karthick%20R&fontColor=B0B0B0&fontSize=e)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;Tech+Enthusiast;DS+and+Algo+Ninja;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
