@@ -78,9 +78,7 @@ Building strong foundations in **DSA** and **Software Engineering**. Obsessed wi
  
 
 ---
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+
 
 
 
